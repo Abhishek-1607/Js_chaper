@@ -191,6 +191,24 @@ class Perimeter{
         this.b=b;
     }
     static getPerimeter(p,q,r){
+        let arr=[p,q,r];
+        console.log(arr);
+        let count=arr.length;
+        let sum_total=0;
+        // this is the method what i like
+        for(let i=0;i<count-1;i++){
+            for(let j=i+1;j<count;j++){
+                // console.log(arr[j]);
+                let Dx=arr[j].a-arr[i].a;
+                let Dy=arr[j].b-arr[i].b;
+                // console.log(arr[j]);
+                // console.log(Dx,Dy);
+                let total_length=Math.hypot(Dx,Dy);
+                sum_total = sum_total+total_length;
+            }  
+            console.log(sum_total);
+        }
+        // this method is for begginers
         let Dpqx=p.a-q.a;
         let Dpqy=p.b-q.b;
         let Dqrx=q.a-r.a;
