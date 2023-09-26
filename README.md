@@ -2,7 +2,7 @@
 a class is a template for creating object.  
 
 ## related class topics
-## Date : 24th september 2023
+## Date : 22th september 2023
 ```bash
 Folder Name: firstClass.js
 1 basics related to function calling
