@@ -37,7 +37,7 @@ Folder Name: thirdClass.js
 7 recursion basics example
 8 some problem solved on recursion fabonaci and factorial and sum of values `different methods`  
 9 function chaining basics only
-10 function parameter default and erst prarameter
+10 function parameter default and rest prarameter
 ```
 
 ## Contributing
