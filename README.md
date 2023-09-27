@@ -48,7 +48,7 @@ Folder Name: fourClass.js
 4 Promises with examples
 5 Promises code and Some real Life examples
 6 On button click get data from api and show the data on frontend
-7 more examples erlated to Promises and its type
+7 more examples related to Promises and its type
 ```
 
 ## Contributing
