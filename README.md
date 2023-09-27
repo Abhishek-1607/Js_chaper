@@ -39,6 +39,17 @@ Folder Name: thirdClass.js
 9 function chaining basics only
 10 function parameter default and rest prarameter
 ```
+## Date : 27th september 2023
+```bash
+Folder Name: fourClass.js
+1 clouser with examples
+2 use of this keyword on DOM with button
+3 Arrow Funtion basics and its examples and some questions related to array
+4 Promises with examples
+5 Promises code and Some real Life examples
+6 On button click get data from api and show the data on frontend
+7 more examples erlated to Promises and its type
+```
 
 ## Contributing
 contributed by Abhishek Kumar
