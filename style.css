@@ -9,9 +9,9 @@
     justify-content: center;
     align-items: center;
     background-color: #f3f3;
-    height: 10vh;
+    height: 100px;
 }
-.container button{
+.container button,.btn{
     padding: .8rem 1.2rem;
     margin: 1rem .6rem;
     background:transparent;
@@ -62,4 +62,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.btn{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+select#musifForm {
+    padding: 0.4rem 0.6rem;
 }

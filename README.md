@@ -50,6 +50,14 @@ Folder Name: fourClass.js
 6 On button click get data from api and show the data on frontend
 7 more examples related to Promises and its type
 ```
-
+## Date : 28th september 2023
+```bash
+Folder Name: fiveClass.js
+1 Intro To loops ( for,do while,while,infinite loop,foreach)
+2 break and continue
+3 for in and for of
+4 intro to array
+5 buitin functions in array ( join,push,pop,shift,unshift,slice,at,splice,map,flexMap,flex,flat,filter,find,findlast,every,some,reduce,major difference in array)
+```
 ## Contributing
 contributed by Abhishek Kumar
