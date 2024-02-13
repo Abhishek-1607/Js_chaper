@@ -60,4 +60,4 @@ Folder Name: fiveClass.js
 5 buitin functions in array ( join,push,pop,shift,unshift,slice,at,splice,map,flexMap,flex,flat,filter,find,findlast,every,some,reduce,major difference in array)
 ```
 ## Contributing
-contributed by Abhishek Kumar
+Thank you saurabh sir for the Guidence.
